@@ -40,7 +40,7 @@ interpretable multi-class classification algorithms. The transformation has the
 desirable property that minimizing the standard misclassification penalty in
 this new space is equivalent to minimizing the custom cost function.
 
-## [Scalable and interpretable product recommendations via overlapping co-clustering](https://arxiv.org/pdf/1604.02071)
+## (#scalable-and-interpretable-product recommendations-via-overlapping-co-clustering)[Scalable and interpretable product recommendations via overlapping co-clustering](https://arxiv.org/pdf/1604.02071)
 [(PDF)](https://arxiv.org/pdf/1604.02071)
 
 `Authors: Reinhard Heckel, Michail Vlachos, Thomas Parnell,Celestine Duenner`
