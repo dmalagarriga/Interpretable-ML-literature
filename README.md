@@ -7,7 +7,10 @@ A collection of interpretable machine learning papers
  * [Building an Interpretable Recommender via Loss-Preserving Transformation](#building-an-interpretable-recommender-via-loss-preserving-transformation)
  * [Scalable and Interpretable Product Recommendations via Overlapping Co-Clustering](#scalable-and-interpretable-product recommendations-via-overlapping-co-clustering)
  * [Latent Factor Interpretations for Collaborative Filtering](#latent-factor-interpretations-for-collaborative-filtering)
-
+ * [Trees for explaining recommendations made through collaborative filtering](#trees-for-explaining-recommendations-made- through-collaborative-filtering)
+ * [Hierarchical graph maps for visualization of collaborative recommender systems](#hierarchical-graph-maps-for-visualization-of-collaborative-recommender-systems)
+ 
+ 
 # Papers
 
 ## [Building an Interpretable Recommender via Loss-Preserving Transformation](https://arxiv.org/abs/1606.05819)
@@ -63,3 +66,17 @@ We present Latent Factor Interpretation (LFI), a method for interpreting models 
 We illustrate the use of LFI interpretations on the MovieLens dataset, integrating auxiliary features from IMDB and DB tropes, and show that latent factors can be predicted with sufficient accuracy for replicating the predictions of the true model.
 
 [Model repo](https://sites.google.com/site/explainfactors/)
+
+## [Trees for explaining recommendations made through collaborative filtering]()
+[(PDF)](http://www.sfu.ca/~cqt/IAT352/research/used/extra/DEFINITION_explanations_SD-Trees_for_explaining_recommendations_made_through_collaborative_filtering.pdf)
+
+`Authors: Antonio Hernando , Jesús Bobadilla, Fernando Ortega, Abraham Gutiérrez`
+
+> Abstract: In this paper, we present a novel technique for explaining the recommendations made by recommender systems based on collaborative filtering. Our technique is based on the visu- alisation of trees of items, and it provides users with a quick and attractive way of under- standing the recommendations. This type of visualisation provides users with valuable information about the reliability of the recommendations and the importance of the ratings the user has made, which may help users to decide which recommendation to choose.
+
+## [Hierarchical graph maps for visualization of collaborative recommender systems]()
+[(PDF)]
+
+`Authors: Antonio Hernando , Jesús Bobadilla, Fernando Ortega, Abraham Gutiérrez`
+
+> Abstract: In this paper we provide a method that allows the visualization of similarity relationships present between items of collaborative filter- ing recommender systems, as well as the relative importance of each of these. The objective is to offer visual representations of the recommender system’s set of items and of their relationships; these graphs show us where the most representative information can be found and which items are rated in a more similar way by the recommender system’s community of users. The visual representa- tions achieved take the shape of phylogenetic trees, displaying the numerical similarity and the reliability between each pair of items considered to be similar. As a case study we provide the results obtained using the public database Movielens 1M, which contains 3900 movies. 
