@@ -4,6 +4,7 @@
 
   * [Building an Interpretable Recommender via Loss-Preserving Transformation](#building-an-interpretable-recommender-via-loss-preserving-transformation)
 
+  * [Scalable and interpretable product recommendations via overlapping co-clustering](#Scalable-and-interpretable-product recommendations-via-overlapping-co-clustering)
 
 
 # Papers
@@ -40,3 +41,9 @@ method transforms such a data set to a new set which can be used with standard
 interpretable multi-class classification algorithms. The transformation has the
 desirable property that minimizing the standard misclassification penalty in
 this new space is equivalent to minimizing the custom cost function.
+
+## [Scalable and interpretable product recommendations via overlapping co-clustering](https://arxiv.org/pdf/1604.02071)[PDF](https://arxiv.org/pdf/1604.02071.pdf)
+
+`Authors: Reinhard Heckel, Michail Vlachos, Thomas Parnell,Celestine Duenner`
+
+> Abstract: We consider the problem of generating interpretable recommendations by identifying overlapping co-clusters of clients and products, based only on positive or implicit feedback. Our approach is applicable on very large datasets because it exhibits almost linear complexity in the input examples and the number of co-clusters. We show, both on real industrial data and on publicly available datasets, that the recommendation accuracy of our algorithm is competitive to that of state-of-art matrix factorization techniques. In addition, our technique has the advantage of offering recommendations that are textually and visually interpretable. Finally, we examine how to implement our technique efficiently on Graphical Processing Units (GPUs).
