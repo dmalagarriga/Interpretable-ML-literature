@@ -2,7 +2,7 @@
 
 1 - Interpretable recommender systems
  * [Building an Interpretable Recommender via Loss-Preserving Transformation](#building-an-interpretable-recommender-via-loss-preserving-transformation)
- * [Scalable and interpretable product recommendations via overlapping co clustering](#scalable-and-interpretable-product recommendations-via-overlapping-co-clustering)
+ * [Scalable and Interpretable Product Recommendations via Overlapping Co-Clustering](#scalable-and-interpretable-product recommendations-via-overlapping-co-clustering)
 
 
 # Papers
