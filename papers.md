@@ -41,7 +41,7 @@ desirable property that minimizing the standard misclassification penalty in
 this new space is equivalent to minimizing the custom cost function.
 
 
-#scalable-and-interpretable-product recommendations-via-overlapping-co-clustering
+
 ## [Scalable and interpretable product recommendations via overlapping co-clustering](https://arxiv.org/pdf/1604.02071)
 [(PDF)](https://arxiv.org/pdf/1604.02071)
 
