@@ -4,7 +4,7 @@
 
   * [Building an Interpretable Recommender via Loss-Preserving Transformation](#building-an-interpretable-recommender-via-loss-preserving-transformation)
 
-  * [Scalable and interpretable product recommendations via overlapping co-clustering](#scalable-and-interpretable-product recommendations-via-overlapping-co-clustering)
+  * [Scalable and interpretable product recommendations via overlapping co-clustering] (#scalable-and-interpretable-product recommendations-via-overlapping-co-clustering)
 
 
 # Papers
@@ -43,7 +43,7 @@ desirable property that minimizing the standard misclassification penalty in
 this new space is equivalent to minimizing the custom cost function.
 
 ## [Scalable and interpretable product recommendations via overlapping co-clustering](https://arxiv.org/pdf/1604.02071)
-[(PDF)](https://arxiv.org/pdf/1604.02071.pdf)(#scalable-and-interpretable-product recommendations-via-overlapping-co-clustering)
+[(PDF)](https://arxiv.org/pdf/1604.02071.pdf)
 
 `Authors: Reinhard Heckel, Michail Vlachos, Thomas Parnell,Celestine Duenner`
 
