@@ -7,7 +7,7 @@
 
 # Papers
 
-## [Building an Interpretable Recommender via Loss-Preserving Transformation](#building-an-interpretable-recommender-via-loss-preserving-transformation)(https://arxiv.org/abs/1606.05819)
+## [Building an Interpretable Recommender via Loss-Preserving Transformation](https://arxiv.org/abs/1606.05819)
 [(PDF)](https://arxiv.org/pdf/1606.05819)
 
 `Authors:Amit Dhurandhar, Sechan Oh, Marek Petrik`
@@ -42,7 +42,7 @@ this new space is equivalent to minimizing the custom cost function.
 
 
 
-## [Scalable and interpretable product recommendations via overlapping co-clustering](#scalable-and-interpretable-product recommendations-via-overlapping-co-clustering)(https://arxiv.org/pdf/1604.02071)
+## [Scalable and interpretable product recommendations via overlapping co-clustering](https://arxiv.org/pdf/1604.02071)
 [(PDF)](https://arxiv.org/pdf/1604.02071)
 `Authors: Reinhard Heckel, Michail Vlachos, Thomas Parnell,Celestine Duenner`
 
